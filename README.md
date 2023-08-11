@@ -24,4 +24,5 @@ ____
 Данные хранятся в реляционной базе данных.  
 БД: postgresql.  
 ER - диаграмма:
-![img.png]()
+
+![img.png](https://github.com/MorgachevStepan/simulation-of-sensors/blob/main/image.png)
